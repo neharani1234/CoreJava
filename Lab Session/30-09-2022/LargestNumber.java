@@ -1,6 +1,10 @@
 package com.java;
 import java.util.Scanner;
 
+/*Program. Create a program to find largest of two numbers. 
+@author: Neha Rani
+@date: 01-10-22 */
+
 class LargestNumber {
 	public static void main(String[] args) {
 		
